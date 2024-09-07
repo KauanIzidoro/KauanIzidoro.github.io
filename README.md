@@ -36,7 +36,12 @@
 ### Game Development with Java FX  
 ![game-java](/assets/atemporal.png)
 
-Development of all game logic and flow using Object-Oriented Programming **(OOP)** concepts and best software development practices.
+Development of all game logic and flow using Object-Oriented Programming **(OOP)** concepts and best software development practices. This project used scrum as an agile method.
+
+#### Technologies
+- Java 8
+- Java FX & Java X
+- CSS 
 
 [Read more](https://github.com/KauanIzidoro/Game-Java) -->
 
