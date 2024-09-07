@@ -1,4 +1,4 @@
-# BackEnd Developer
+<!-- # BackEnd Developer
 
 
 ## Technical Skills  
@@ -38,5 +38,54 @@
 
 Development of all game logic and flow using Object-Oriented Programming **(OOP)** concepts and best software development practices.
 
-[Read more](https://github.com/KauanIzidoro/Game-Java)
+[Read more](https://github.com/KauanIzidoro/Game-Java) -->
+
+
+
+# Desenvolvedor Back-End
+
+## Habilidades Técnicas
+
+### Linguagens de Programação
+- Python (FastAPI)
+- C# (.NET)
+- Java
+- C++
+
+### Tecnologias e Ferramentas
+- SQL (PostgreSQL)
+- NoSQL (MongoDB)
+- Git
+- Azure DevOps
+- Docker e Kubernetes (k8s)
+- RabbitMQ
+- Nginx
+- Grafana
+- LaTeX
+
+## Experiência Profissional
+**Desenvolvedor Backend @ 2RP Net Data-driven Company (_Março 2024 - Atualmente_)**
+- Desenvolvimento de aplicações para processamento de dados bancários.
+- Migração de rotinas para a nuvem com foco em desempenho e redução de custos.
+
+**Aprendiz @ Robert Bosch VM (_Julho 2022 - Dezembro 2023_)**
+- Gestão e expedição de estoque automotivo físico utilizando  sistema ERP SAP.
+
+## Educação
+- Técnico em Eletroeletrônica - SENAI (_Junho 2022 - Junho 2024_)
+- Graduação em Análise e Desenvolvimento de Sistemas - Faculdade SENAI (_Janeiro 2024 - Dezembro 2025_)
+
+## Projetos
+### Desenvolvimento de Jogo 2D com Java FX
+![game-java](/assets/atemporal.png)
+
+Desenvolvimento de toda a lógica e fluxo do jogo usando conceitos de Programação Orientada a Objetos **(OOP)** e melhores práticas de desenvolvimento de software e gestão utilizando do método Scrum.
+
+#### Tecnologias usadas
+- Java 8
+- Java FX & Java X
+- CSS
+
+[Leia mais](https://github.com/KauanIzidoro/Game-Java)
+
 
