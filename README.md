@@ -25,8 +25,8 @@
 - Inventory management and dispatch using SAP ERP system
 
 ## Education
-- Technical Degree in Electronics | SENAI (_June 2024_)
-- Technology Degree in Systems Analysis and Development | Faculdade SENAI (_December 2025_)
+- Technical Degree in Electronics @ SENAI (_June 2024_)
+- Technology Degree in Systems Analysis and Development @ Faculdade SENAI (_December 2025_)
  
 ## Projects
 ### Game Development with Java FX  
