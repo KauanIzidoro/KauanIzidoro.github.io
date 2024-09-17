@@ -85,11 +85,11 @@ Development of all game logic and flow using Object-Oriented Programming **(OOP)
 ## Projetos
 ### Desenvolvimento de Jogo 2D com Java FX
 
-##### [Atemporal](https://github.com/KauanIzidoro/Game-Java)
+### [Atemporal](https://github.com/KauanIzidoro/Game-Java)
 
 ![game-java](/assets/atemporal.png)
 
-Desenvolvimento de toda a lógica e fluxo do jogo usando conceitos de Programação Orientada a Objetos **(OOP)** e melhores práticas de desenvolvimento de software e gestão utilizando do método Scrum.
+Desenvolvimento de toda a lógica e fluxo do jogo usando conceitos de Programação Orientada a Objetos **(OOP)**, arquitetura monolítica e melhores práticas de desenvolvimento de software e gestão utilizando do método Scrum.
 
 #### Tecnologias usadas
 - Java 8
