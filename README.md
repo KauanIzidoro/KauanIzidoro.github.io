@@ -52,13 +52,15 @@ Development of all game logic and flow using Object-Oriented Programming **(OOP)
 ## Habilidades Técnicas
 
 ### Linguagens de Programação
-- Python (FastAPI)
-- C# (.NET)
+- Python 
+- C# 
 - Java
 - C++
 
-### Tecnologias e Ferramentas
-- SQL (PostgreSQL)
+### Tecnologias e Frameworks
+- FastAPI 
+- .NET
+- SQL (PostgreSQL, SQLite)
 - NoSQL (MongoDB)
 - Git
 - Azure DevOps
@@ -70,8 +72,8 @@ Development of all game logic and flow using Object-Oriented Programming **(OOP)
 
 ## Experiência Profissional
 **Desenvolvedor Backend @ 2RP Net Data-driven Company (_Março 2024 - Atualmente_)**
-- Desenvolvimento de aplicações para processamento de dados bancários.
-- Migração de rotinas para a nuvem com foco em desempenho e redução de custos.
+- Desenvolvimento de aplicações para processamento de dados bancários em streaming
+- Migração de rotinas em diferentes arquiteturas de nuvem com foco em desempenho e redução de custos.
 
 **Aprendiz @ Robert Bosch VM (_Julho 2022 - Dezembro 2023_)**
 - Gestão e expedição de estoque automotivo físico utilizando  sistema ERP SAP.
@@ -82,6 +84,9 @@ Development of all game logic and flow using Object-Oriented Programming **(OOP)
 
 ## Projetos
 ### Desenvolvimento de Jogo 2D com Java FX
+
+##### [Atemporal](https://github.com/KauanIzidoro/Game-Java)
+
 ![game-java](/assets/atemporal.png)
 
 Desenvolvimento de toda a lógica e fluxo do jogo usando conceitos de Programação Orientada a Objetos **(OOP)** e melhores práticas de desenvolvimento de software e gestão utilizando do método Scrum.
@@ -90,7 +95,5 @@ Desenvolvimento de toda a lógica e fluxo do jogo usando conceitos de Programaç
 - Java 8
 - Java FX & Java X
 - CSS
-
-[Leia mais](https://github.com/KauanIzidoro/Game-Java)
 
 
